@@ -1,3 +1,10 @@
+# Random Quote React App
+This is a random quote app that I created using React and React Bootstrap/Bootstrap.
+
+**Click below for a preview**\
+https://www.jonhayjr.com/react-random-quote-app
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
