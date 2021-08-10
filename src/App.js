@@ -54,7 +54,7 @@ const App = () => {
   }
 
   return (
-    <Container fluid className='text-center m-5'  style={containerStyle}>
+    <Container fluid className='text-center w-100 mt-5'  style={containerStyle}>
       <Row>
         <Col>
           <Header className='mt-5' title='Random Quote App'/>

@@ -3,7 +3,7 @@ import {Card} from 'react-bootstrap';
 const QuoteCard = ({getRandomQuote, quote, getRandomColor, isLoading}) => {
     return (
     <div>
-        <Card className='w-75 mx-auto mt-5'>
+        <Card className='text-center p-5'>
             <Card.Body>
                 {isLoading ?
                 <p className='h2'>Loading....</p>
