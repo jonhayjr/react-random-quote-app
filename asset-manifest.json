@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-random-quote-app/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/react-random-quote-app/static/js/main.e38ebbaf.chunk.js",
-    "main.js.map": "/react-random-quote-app/static/js/main.e38ebbaf.chunk.js.map",
-    "runtime-main.js": "/react-random-quote-app/static/js/runtime-main.8dc14cfd.js",
-    "runtime-main.js.map": "/react-random-quote-app/static/js/runtime-main.8dc14cfd.js.map",
+    "main.css": "/react-random-quote-app/static/css/main.31d530cc.chunk.css",
+    "main.js": "/react-random-quote-app/static/js/main.b1e80c77.chunk.js",
+    "main.js.map": "/react-random-quote-app/static/js/main.b1e80c77.chunk.js.map",
+    "runtime-main.js": "/react-random-quote-app/static/js/runtime-main.4ba1cce6.js",
+    "runtime-main.js.map": "/react-random-quote-app/static/js/runtime-main.4ba1cce6.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/react-random-quote-app/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.29e4c133.chunk.js": "/react-random-quote-app/static/js/2.29e4c133.chunk.js",
-    "static/js/2.29e4c133.chunk.js.map": "/react-random-quote-app/static/js/2.29e4c133.chunk.js.map",
-    "static/js/3.9c41a26d.chunk.js": "/react-random-quote-app/static/js/3.9c41a26d.chunk.js",
-    "static/js/3.9c41a26d.chunk.js.map": "/react-random-quote-app/static/js/3.9c41a26d.chunk.js.map",
+    "static/js/2.86984af0.chunk.js": "/react-random-quote-app/static/js/2.86984af0.chunk.js",
+    "static/js/2.86984af0.chunk.js.map": "/react-random-quote-app/static/js/2.86984af0.chunk.js.map",
+    "static/js/3.ff105d72.chunk.js": "/react-random-quote-app/static/js/3.ff105d72.chunk.js",
+    "static/js/3.ff105d72.chunk.js.map": "/react-random-quote-app/static/js/3.ff105d72.chunk.js.map",
     "index.html": "/react-random-quote-app/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/react-random-quote-app/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/react-random-quote-app/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.29e4c133.chunk.js.LICENSE.txt": "/react-random-quote-app/static/js/2.29e4c133.chunk.js.LICENSE.txt"
+    "static/css/main.31d530cc.chunk.css.map": "/react-random-quote-app/static/css/main.31d530cc.chunk.css.map",
+    "static/js/2.86984af0.chunk.js.LICENSE.txt": "/react-random-quote-app/static/js/2.86984af0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8dc14cfd.js",
+    "static/js/runtime-main.4ba1cce6.js",
     "static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.29e4c133.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e38ebbaf.chunk.js"
+    "static/js/2.86984af0.chunk.js",
+    "static/css/main.31d530cc.chunk.css",
+    "static/js/main.b1e80c77.chunk.js"
   ]
 }
