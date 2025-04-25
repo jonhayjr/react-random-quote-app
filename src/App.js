@@ -18,11 +18,12 @@ const App = () => {
   const getRandomQuote = () => {
     //Set loading state back to tru
     setLoading(true)
-    axios.get('https://api.quotable.io/quotes')
+    axios.get('https://dummyjson.com/quotes')
       .then(res => {
-        const quotes = res.data.results;
+        const quotes = res.data.quotes;
         const randomNumber = getRandomNumber(quotes.length);
         const randomQuote = quotes[randomNumber];
+        console.log(randomQuote);
         setQuote(randomQuote);
         setLoading(false);
       })

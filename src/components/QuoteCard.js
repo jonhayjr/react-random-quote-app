@@ -10,7 +10,7 @@ const QuoteCard = ({getRandomQuote, quote, getRandomColor, isLoading}) => {
                 :
                 (
                 <div>
-                    <p className='h2'>{quote.content}</p>
+                    <p className='h2'>{quote.quote}</p>
                     <p className='h4'>-{quote.author}</p>
                 </div>)}
             </Card.Body>
